@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 public class Program
 {
-    private const string blobServiceEndpoint = "https://mediastorcarter.blob.core.windows.net";
-    private const string storageAccountName = "mediastorcarter";
-    private const string storageAccountKey = "CXh2f/ystlTGCHRMijg7luM2zulFBDaUuROlvbsWB2nsyF6EVotoBxp/h+K91qCP4TRCKtarWEmc+rMA/aH/dw==";
+    private const string blobServiceEndpoint = "";
+    private const string storageAccountName = "";
+    private const string storageAccountKey = "";
 
     public static async Task Main(string[] args)
     {
